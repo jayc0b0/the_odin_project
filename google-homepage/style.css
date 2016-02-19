@@ -1,0 +1,32 @@
+.center {
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+#barbox {
+    margin-top: 30px;
+    padding: 4px;
+    border: 1px grey solid;
+}
+
+input {
+    border:none;
+}
+
+.buttons {
+    margin-top: 30px;
+    height: 40px;
+    size: 40;
+}
+
+#searchbutton {
+    text-align: left;
+}
+
+#botbar {
+    position: absolute;
+    bottom: 0%;
+}
