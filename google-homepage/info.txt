@@ -1,4 +1,5 @@
 Started: 18 Feb 2016
+Finished (Mostly/Initial Version): 19 Feb 2016
 Goals:
     * Recreate the Google homepage
     * Do it on a basic level
