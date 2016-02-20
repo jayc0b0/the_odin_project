@@ -2,8 +2,17 @@
     width: 100%;
 }
 
-#squaremenu {
-    background-image: url("//ssl.gstatic.com/gb/images/i1_1967ca6a.png");
+#topbar {
+    text-align: right;
+}
+
+#signinbutton {
+    height: 30px;
+    width: 80px;
+    color: white;
+    background-color: #EA3445;
+    font-weight: bold;
+    font-size: 10px;
 }
 
 .center {
