@@ -1,0 +1,5 @@
+Started: 19 Feb 2016
+Finished:
+Goals:
+    * Build an Etch-A-Sketch/sketchpad
+    * Using divs and JS/jQuery

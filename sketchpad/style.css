@@ -1,0 +1,28 @@
+#newgrid {
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+#divbox {
+    width: 600px;
+    height: 600px;
+    display: table;
+}
+
+.divrow {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    background-color: white;
+    border: 1px solid black;
+    margin: 5px 5px 5px 5px;
+}
+
+.fill {
+    display: table-cell;
+    background: black;
+    border: 1px solid black;
+    margin: 5px 5px 5px 5px;
+}
