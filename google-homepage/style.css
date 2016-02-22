@@ -2,6 +2,7 @@
     width: 100%;
 }
 
+/*Top Section*/
 #topbar {
     text-align: right;
 }
@@ -15,6 +16,7 @@
     font-size: 10px;
 }
 
+/*Logo and search bar*/
 .center {
     text-align: center;
     position: fixed;
@@ -67,6 +69,7 @@ input {
     padding-left: 5px;
 }
 
+/*Bottom Section*/
 #botbar {
     position: fixed;
     bottom: 5;
