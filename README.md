@@ -1,2 +1,2 @@
 # the_odin_project
-A collection of things I've done for The Odin Project
+This is a collection of things I've done for The Odin Project.
